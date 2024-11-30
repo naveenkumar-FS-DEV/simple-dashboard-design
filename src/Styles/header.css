@@ -1,0 +1,26 @@
+.header-container{
+    height: 70px;
+    width: 1050px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 3px 3px 15px whitesmoke;
+    display: flex;
+    border: 3px solid whitesmoke;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: -3px;
+    border-radius: 5px;
+}
+
+.header-btn{
+    background-color: #0747A5;
+    color: white;
+    padding: 5px 15px 5px 15px;
+    border-radius: 20px;
+    border: 1px solid #0747A5;
+}
+
+.header-btn:hover{
+    background-color: #346cc0;
+}
